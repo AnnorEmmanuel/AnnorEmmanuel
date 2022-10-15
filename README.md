@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - WhatsApp 0550667634
-- email Annore39@gmail.com 
+- email annore39@gmail.com 
 
 <!---
 AnnorEmmanuel/AnnorEmmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
