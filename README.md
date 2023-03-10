@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Annor Emmanuel
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java, kotlin and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - WhatsApp 0550667634
