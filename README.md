@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Annor Emmanuel
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java, kotlin and javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Java software developer experienced in Spring Boot and JavaFX
+- 💞️ I’m looking to collaborate with experts and learn more
 - 📫 How to reach me 
 - WhatsApp 0550667634
 - email annore39@gmail.com 
